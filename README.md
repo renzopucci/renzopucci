@@ -28,9 +28,7 @@ I bring strong experience from technical support and customer-facing roles, with
 ---
 
 ## Showcase Projects
-- 🌐 **Portfolio Site** – https://github.com/renzopucci/portfolio  
-- 📊 **SQL Mini Projects** – (coming soon)  
-- 🛠️ **Support / Automation Tools** – (coming soon)  
+- 🌐 **Portfolio Site** – https://renzopucci.github.io/portfolio/
 
 ---
 
