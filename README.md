@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Renzo 👋
 
-<!--
-**renzopucci/renzopucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Higher Diploma Software Development student (ATU, expected 2026)  
+💼 Background in Customer Success & Technical Support (10+ years)  
+🌍 Based in Donegal, Ireland
 
-Here are some ideas to get you started:
+## Tech
+- HTML, CSS, JavaScript, Bootstrap
+- SQL foundations
+- Currently building projects in web & mobile apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Showcase projects
+- 🍳 Recipe Finder (Ionic App) — https://github.com/renzopucci/Recipe-Finder-Ionic-App
+- (Add 2–4 more as you create them)
+
+## Contact
+- LinkedIn: https://linkedin.com/in/renzo-pucci-081401157
+- Email: renzopucci@hotmail.it
