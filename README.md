@@ -1,18 +1,39 @@
 # Hi, I’m Renzo 👋
 
-🎓 Higher Diploma Software Development student (ATU, expected 2026)  
-💼 Background in Customer Success & Technical Support (10+ years)  
-🌍 Based in Donegal, Ireland
+🎓 **Higher Diploma in Software Development** (ATU, expected 2026)  
+💼 **Background:** Customer Success & Technical Support (10+ years)  
+🌍 **Location:** Donegal, Ireland  
 
-## Tech
-- HTML, CSS, JavaScript, Bootstrap
-- SQL foundations
-- Currently building projects in web & mobile apps
+---
 
-## Showcase projects
-- 🍳 Recipe Finder (Ionic App) — https://github.com/renzopucci/Recipe-Finder-Ionic-App
-- (Add 2–4 more as you create them)
+## About Me
+I’m completing my Higher Diploma in Software Development and building practical, well-documented projects.
+I bring strong experience from technical support and customer-facing roles, with a focus on clarity, reliability, and problem-solving.
+
+---
+
+## Tech Stack
+- HTML, CSS, JavaScript
+- Bootstrap
+- SQL (foundations)
+- Git & GitHub
+
+---
+
+## Current Focus
+- Building small web and mobile projects
+- Improving code quality and documentation
+- Applying real-world problem-solving to software projects
+
+---
+
+## Showcase Projects
+- 🌐 **Portfolio Site** – https://github.com/renzopucci/portfolio  
+- 📊 **SQL Mini Projects** – (coming soon)  
+- 🛠️ **Support / Automation Tools** – (coming soon)  
+
+---
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/renzo-pucci-081401157
-- Email: renzopucci@hotmail.it
+- 💼 LinkedIn: https://linkedin.com/in/renzo-pucci-081401157  
+- 📧 Email: renzopucci@hotmail.it
